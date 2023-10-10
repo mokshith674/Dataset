@@ -1,0 +1,6 @@
+mpg,Cylinder,Displacement,HP,Weight,Accleartion,Modelyear,Origin,Car-name
+18,4,300,130,3504,12,70,1,Honda
+15,8,325,165,3645,15.5,71,1,Nexon
+18,8,318,160,3440,11,70,1,Ford
+16,6,305,160,3450,12,75,1,Indica
+17,8,307,150,3449,10.5,80,1,Swift
